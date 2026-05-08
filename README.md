@@ -2,9 +2,7 @@
 
 **MS Data Science · Seattle University ·**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushka-naidu-maddisetty-24b146204)
-[![Email](https://img.shields.io/badge/Email-anushkanaidu.m@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anushkanaidu.m@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Demo-OpsCore-E11D48?style=flat&logo=netlify&logoColor=white)](https://opscore-dashboard.netlify.app)
+📍 Seattle, WA · anushkanaidu.m@gmail.com · [LinkedIn](https://www.linkedin.com/in/anushka-naidu-maddisetty-24b146204)
 
 ---
 

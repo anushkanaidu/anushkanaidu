@@ -1,6 +1,6 @@
 # Anushka Naidu Maddisetty
 
-**MS Data Science · Seattle University **
+**MS Data Science · Seattle University**
 
 📍 Seattle, WA · anushkanaidu.m@gmail.com · [LinkedIn](https://www.linkedin.com/in/anushka-naidu-maddisetty-24b146204) · [Resume](https://anushkanaidu.github.io/resume/anushka_resume.html)
 

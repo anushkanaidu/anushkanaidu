@@ -10,7 +10,7 @@
 
 Graduate student in Data Science at Seattle University with a BS in Psychology (GPA 3.8). My background in human behavior research informs how I approach data problems — I focus on building AI-powered tools that are actionable, not just analytical.
 
-Currently seeking summer 2026 internships in Data Science, Data Analytics, and AI/ML.
+Currently seeking summer internships in Data Science, Data Analytics, and AI/ML.
 
 ---
 

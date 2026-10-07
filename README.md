@@ -9,13 +9,11 @@ Python • SQL • Machine Learning • NLP • Behavioral Analytics • LLM App
 **Seeking Summer 2027 internships and full-time roles starting mid-2027** in data science, product and behavioral analytics, experimentation, and applied ML.
 
 ---
-
 ## Education
-
-**M.S. Data Science** · Seattle University · *Expected June 2027* · GPA 3.8
+**M.S. Data Science** · Seattle University · *Expected June 2027* · GPA 3.8<br>
 Big Data Analytics · Applied Statistical Inference & Experimental Design · Data Management (SQL) · Data Visualization
 
-**B.S. Psychology** · CSU Sacramento · *May 2025* · GPA 3.8 · Dean's Honor List (4 terms)
+**B.S. Psychology** · CSU Sacramento · *May 2025* · GPA 3.8 · Dean's Honor List (4 terms)<br>
 Advanced Methods & Statistics in Psychological Research · Statistics for Psychology · Cognitive Psychology · Social Psychology
 
 ---
